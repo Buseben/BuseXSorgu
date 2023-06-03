@@ -41,7 +41,7 @@ green = Fore.GREEN
 
 STATTIK_AILE_URL = "http://45.95.65.175/api/aile/api.php"
 STATIC_ADSOYAD_URL = "http://45.95.65.175/api/adsoyad/api.php"
-STATIC_USERAGENT = "illegalXteam sorgu sistemi"
+STATIC_USERAGENT = "Buse sorgu sistemi
 
 
 def ToolHakkında():
